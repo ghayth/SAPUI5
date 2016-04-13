@@ -13,6 +13,7 @@ sap.ui.jsview("hellogit.main", {
 	* @memberOf hellogit.main
 	*/ 
 	createContent : function(oController) {
+		//Just a comment
 		return new sap.ui.commons.Label({text:"Hello SAPUI5-Git !"});
 	}
 
